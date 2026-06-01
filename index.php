@@ -158,8 +158,7 @@
     <h2Sistema Truper</h2>
 
     <p>
-        Plataforma web desarrollada con PHP + MySQL para la gestión
-        profesional de herramientas, productos y refacciones.
+        cesar, y gerardo
     </p>
 
     <a href="login.php" class="btn">
