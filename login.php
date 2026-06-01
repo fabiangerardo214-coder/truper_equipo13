@@ -8,7 +8,7 @@ if(isset($_POST['entrar'])){
 
     $numero_control = explode("@", $correo)[0];
 
-    $password_correcta = $numero_control. "ITO";
+    $password_correcta = $numero_control. "tso";
 
     if(
         strpos($correo, "@itoaxaca.edu.mx") !== false &&
