@@ -155,7 +155,7 @@
 
 <section class="hero">
 
-    <h2>Sistema Profesional TRUPER</h2>
+    <h2Sistema Truper</h2>
 
     <p>
         Plataforma web desarrollada con PHP + MySQL para la gestión
