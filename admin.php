@@ -316,7 +316,7 @@ tr:hover{
 
     <a href="logout.php" class="logout">
 
-        <i class="fa-solid fa-right-from-bracket"></i>
+        <i classssssss="fa-solid fa-right-from-bracket"></i>
 
         Cerrar Sesión
 
