@@ -168,7 +168,8 @@ if(isset($_POST['entrar'])){
 
 <div class="login-box">
 
-    <h1>Login - Truper</h1>
+    <h1>Login-Tercera Oportunidad 4SC MMGF</h1>
+    
 
     <?php if(isset($error)){ ?>
         <div class="error">
